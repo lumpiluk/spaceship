@@ -1,0 +1,15 @@
+Binaries
+Build
+DerivedDataCache
+Intermediate
+Saved
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.log
+
+*.blend1
+old.git
